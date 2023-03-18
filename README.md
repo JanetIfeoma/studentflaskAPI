@@ -15,7 +15,7 @@ Built With:
 Python Flask SQLite
 
 
-Project Scope
+##Project Scope
 The Student Management API handles the following:
 
 Admin Registration
@@ -31,7 +31,7 @@ Calculating a Student GPA using the 4.0 Grading System.
 The future Versions will cover more aspects and features as needed soon.
 
 
-Lessons Learned
+##Lessons
 Creating this API helped me learn and practice:
 
 API Development with Python
