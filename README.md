@@ -1,4 +1,4 @@
-# studentflaskAPI
+### studentflaskAPI
 
 About Student Management API
 Student Management API does the main function of a school and explains how it works. It enables the school to create an admin account. It allows the registration of students and lecturers. Also, the API allows the school admin to create courses and handling the grading system for the student.
@@ -15,7 +15,7 @@ Built With:
 Python Flask SQLite
 
 
-##Project Scope
+### Project Scope
 The Student Management API handles the following:
 
 Admin Registration
@@ -31,7 +31,7 @@ Calculating a Student GPA using the 4.0 Grading System.
 The future Versions will cover more aspects and features as needed soon.
 
 
-##Lessons
+### Lessons
 Creating this API helped me learn and practice:
 
 API Development with Python
